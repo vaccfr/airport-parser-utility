@@ -69,9 +69,13 @@ def data_builder(datafile):
   for p in positions:
     airport = p.split(":")[1][:4]
     if not airport in airports:
+      fir, city, airpname = find_airport_name(airport)
       final_data = {
         "id": idx,
         "icao": airport,
+        "fir": fir,
+        "city": city,
+        "airport": airpname,
         "positions": find_positions(positions, airport),
         "atis_frequency": find_atis(positions, airport)
       }
@@ -109,6 +113,16 @@ def find_positions(positions, icao):
       }
       all_positions.append(pos_data)
   return all_positions
+
+def find_airport_name(icao):
+  with open("output.json", "r") as file:
+    data = file.read()
+    data = json.loads(data)
+    file.close()
+  for d in data:
+    if d['icao'] == icao:
+      return d['fir'], d['city'], d['airport']
+  return "", "", ""
 
 output = data_builder(pfile)
 print(output)

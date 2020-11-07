@@ -160,7 +160,7 @@ AG:LFPB_GND Le Bourget Ground:121.900:novoice:LFPB_GND
 AG:LFPB_TWR Le Bourget Tower:118.920:novoice:LFPB_TWR
 AG:LFPG_APP De Gaulle Approach:121.150:novoice:LFPG_APP
 AG:LFPG_ATIS:127.120:novoice:LFPG_ATIS
-AG:LFPG_A_GND De Gaulle Apron:121.920:novoice:LFPG_A_GND
+AG:LFPG_A_GND De Gaulle Apron:121.670:novoice:LFPG_A_GND
 AG:LFPG_DEL De Gaulle Delivery:121.850:novoice:LFPG_DEL
 AG:LFPG_DEP De Gaulle Departure:124.350:novoice:LFPG_DEP
 AG:LFPG_F_APP De Gaulle Arrival:126.420:novoice:LFPG_F_APP
