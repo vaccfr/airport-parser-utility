@@ -22,7 +22,7 @@ draw_distance = {
 
 def organiser():
   final_stuff = []
-  with open("VoiceChannels.txt", "r") as file:
+  with open("VoiceChannels.txt", "r", encoding='utf8', errors='replace') as file:
     positions = file.readlines()
     file.close()
   
