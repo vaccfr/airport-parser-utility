@@ -53,7 +53,7 @@ position_ranks = {
 pfile = "VoiceChannels.txt"
 
 def data_reader(datafile):
-  with open(datafile) as pfile_dec:
+  with open(datafile, encoding='utf8', errors='replace') as pfile_dec:
     pfile_data = pfile_dec.readlines()
     pfile_dec.close()
   
