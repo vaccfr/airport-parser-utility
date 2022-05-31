@@ -72,9 +72,9 @@ AG:LFKJ_APP Ajaccio Approach:121.050:novoice:LFKJ_APP
 AG:LFKJ_ATIS:126.950:novoice:LFKJ_ATIS
 AG:LFKJ_GND Ajaccio Ground:121.700:novoice:LFKJ_GND
 AG:LFKJ_TWR Ajaccio Tower:118.075:novoice:LFKJ_TWR
-AG:LFLB_APP Chambéry Approach:123.700:novoice:LFLB_APP
+AG:LFLB_APP Chambï¿½ry Approach:123.700:novoice:LFLB_APP
 AG:LFLB_ATIS:127.100:novoice:LFLB_ATIS
-AG:LFLB_TWR Chambéry Tower:118.300:novoice:LFLB_TWR
+AG:LFLB_TWR Chambï¿½ry Tower:118.300:novoice:LFLB_TWR
 AG:LFLC_APP Clermont Approach:119.375:novoice:LFLC_APP
 AG:LFLC_ATIS:136.425:novoice:LFLC_ATIS
 AG:LFLC_GND Clermont Ground:121.950:novoice:LFLC_GND
@@ -85,11 +85,11 @@ AG:LFLG_GND Le Versoux ground:121.650:novoice:LFLG_GND
 AG:LFLG_TWR Le Versoux Tower:121.000:novoice:LFLG_TWR
 AG:LFLL_APP Lyon Approach:125.450:novoice:LFLL_APP
 AG:LFLL_ATIS:126.200:novoice:LFLL_ATIS
-AG:LFLL_DEL Saint Exupéry Delivery:121.650:novoice:LFLL_DEL
+AG:LFLL_DEL Saint Exupï¿½ry Delivery:121.650:novoice:LFLL_DEL
 AG:LFLL_DEP Lyon Departure:133.150:novoice:LFLL_DEP
 AG:LFLL_E_APP Lyon East Approach:136.075:novoice:LFLL_E_APP
-AG:LFLL_GND Saint Exupéry Ground:121.825:novoice:LFLL_GND
-AG:LFLL_TWR Saint-Exupéry Tower:120.450:novoice:LFLL_TWR
+AG:LFLL_GND Saint Exupï¿½ry Ground:121.825:novoice:LFLL_GND
+AG:LFLL_TWR Saint-Exupï¿½ry Tower:120.450:novoice:LFLL_TWR
 AG:LFLP_TWR Annecy Tower:118.200:novoice:LFLP_TWR
 AG:LFLS_ATIS:133.825:novoice:LFLS_ATIS
 AG:LFLS_GND Grenoble Ground:121.925:novoice:LFLS_GND
@@ -145,8 +145,8 @@ AG:LFOB_ATIS:118.370:novoice:LFOB_ATIS
 AG:LFOB_TWR Beauvais Tower:121.400:novoice:LFOB_TWR
 AG:LFOC_TWR Chateaudun Tower:122.100:novoice:LFOC_TWR
 AG:LFOH_I_TWR Le Havre AFIS:135.200:novoice:LFOH_I_TWR
-AG:LFOJ_APP Orléans Approach:122.700:novoice:LFOJ_APP
-AG:LFOJ_TWR Orléans Tower:124.800:novoice:LFOJ_TWR
+AG:LFOJ_APP Orlï¿½ans Approach:122.700:novoice:LFOJ_APP
+AG:LFOJ_TWR Orlï¿½ans Tower:124.800:novoice:LFOJ_TWR
 AG:LFOP_APP Rouen Approach:118.575:novoice:LFOP_APP
 AG:LFOP_ATIS:120.725:novoice:LFOP_ATIS
 AG:LFOP_TWR Rouen Tower:120.200:novoice:LFOP_TWR
